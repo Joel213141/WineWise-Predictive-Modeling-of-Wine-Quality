@@ -4,15 +4,6 @@
 
 This project analyzes the quality of red wine based on several physicochemical properties. Using the `RedWine.txt` dataset, various transformations are applied to the data, and different models are built to predict wine quality. The analysis primarily uses R scripts, focusing on methods like Weighted Arithmetic Mean (WAM), Quasi Arithmetic Mean (QAM), and Ordered Weighted Average (OWA).
 
-## Project Structure
-
-- **data/**: Contains the original dataset and transformed data.
-- **models/**: Stores the output files for different models with their respective weights and statistics.
-- **scripts/**: R scripts used for data transformation, model fitting, and prediction.
-- **notebooks/**: (Optional) Jupyter notebook for exploratory data analysis.
-- **README.md**: Detailed instructions and overview of the project.
-- **requirements.txt**: Required R packages for running the scripts.
-
 ## Data Preparation
 
 The initial dataset `RedWine.txt` contains physicochemical properties of red wine. The data preparation includes:
