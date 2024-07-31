@@ -31,7 +31,7 @@ These models are evaluated based on metrics such as Root Mean Square Error (RMSE
 
 - **Quasi Arithmetic Mean (QAM)** was selected as the most effective model due to its flexibility in handling variable importance and its better fit for the data.
 - The output files for each model are saved in the `models/` directory.
-- ![Error Measures/Correlation Coefficients and Weights/Parameters](./image.png)
+- ![Error Measures/Correlation Coefficients and Weights/Parameters](images/image.png)
 
 ## Results
 Predicted Quality: 6.08
